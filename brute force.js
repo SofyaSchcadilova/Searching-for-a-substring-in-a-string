@@ -1,3 +1,4 @@
+//Щадилова Софья кнмо-101
 const fs = require('fs');
 let S = fs.readFileSync(process.argv[2],'utf-8');
 let T = fs.readFileSync(process.argv[3],'utf-8');
